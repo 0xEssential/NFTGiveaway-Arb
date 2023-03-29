@@ -1,0 +1,6 @@
+@chainlink/contracts/src/v0.8/=lib/chainlink/contracts/src/v0.8/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@xessential/contracts/=lib/xessential/packages/contracts/contracts
+@xessential/test/=lib/xessential/packages/contracts/test
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/

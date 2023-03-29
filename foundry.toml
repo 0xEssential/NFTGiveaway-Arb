@@ -1,0 +1,12 @@
+[profile.default]
+src = 'src'
+out = 'out'
+libs = ['lib']
+
+[rpc_endpoints]
+ARB_GOERLI = "${ARB_GOERLI_RPC_URL}"
+ARB_ONE = "${ARB_ONE_RPC_URL}"
+
+[etherscan]
+ARB_GOERLI = { key = "${ARBISCAN_API_KEY}" }
+ARB_ONE    = { key = "${ARBISCAN_API_KEY}" }
